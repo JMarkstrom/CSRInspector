@@ -12,14 +12,18 @@ Based on these inputs, **CSRInspector** performs certificate chain validation to
 ![](/images/CSRInspector.gif)
 
 ## ⚠️ Disclaimer
-This application is provided "as-is" without any warranty of any kind, either expressed or implied.
+This application is made available on an "as-is" basis, without any warranties or representations, whether express, implied, or statutory, including but not limited to implied warranties of merchantability, fitness for a particular purpose, or non-infringement.
 
 ## 💾 Setup intructions
+_To install CSRInspector_:
+
 1. Download the MSI here
 2. Double-click the MSI package to begin installation
 3. Follow on-screen instructions to complete installation.
 
 ## 📖 Usage
+_To use CSRInspector_:
+
 1. Double-click the ```CSRInspector``` desktop shortcut to run the app
 2. Select the requisite input files (CSR, attestation certificate and intermediate certificate)<sup>1</sup>
 3. Click the **Perform attestation checks** button
