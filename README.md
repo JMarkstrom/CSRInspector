@@ -15,7 +15,13 @@ Based on these inputs, **CSRInspector** performs certificate chain validation to
 This application is provided "as-is" without any warranty of any kind, either expressed or implied.
 
 ## 💾 Setup intructions
-N/A
+1. Download the MSI here
+2. Double-click the MSI package to begin installation
+3. Follow on-screen instructions to complete installation.
 
 ## 📖 Usage
-To attest a Certificate Signing Request (CSR), simply point the app to the requisite input files.
+1. Double-click the ```CSRInspector``` desktop shortcut to run the app
+2. Select the requisite input files (CSR, attestation certificate and intermediate certificate)*
+3. Click the **Perform Attestation checks** button
+4. If attestation is successful, click **Details** to review attested YubiKey details
+5. Issue or reject the CSR (out of scope).
