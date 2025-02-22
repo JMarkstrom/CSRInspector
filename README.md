@@ -21,9 +21,9 @@ This application is provided "as-is" without any warranty of any kind, either ex
 
 ## 📖 Usage
 1. Double-click the ```CSRInspector``` desktop shortcut to run the app
-2. Select the requisite input files (CSR, attestation certificate and intermediate certificate)<sup>*</sup>
+2. Select the requisite input files (CSR, attestation certificate and intermediate certificate)<sup>1</sup>
 3. Click the **Perform attestation checks** button
 4. If attestation is successful, click **Details** to review attested YubiKey details
 5. Issue or reject the CSR (out of scope).
 
-<sup>*</sup> Yubico CA certficate is embedded within the application and is not a required input.
+<sup>1</sup> Yubico CA certficate is embedded within the application and is not a required input.
