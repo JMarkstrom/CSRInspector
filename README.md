@@ -9,9 +9,10 @@
 
 Based on these inputs, **CSRInspector** performs certificate chain validation to ensure the attestation certificate is correctly issued and trusted. It also verifies that the public key in the attestation certificate matches the one in the CSR. If all checks pass, the app confirms successful attestation and displays _detailed_ metadata about the YubiKey, including its firmware version, form factor, and security policies.
 
+🙏🏻 A big 'thank you' to Oscar Virot (@virot] for showing what's possible!
+
 ![](/images/CSRInspector.gif)
 
-🙏🏻 A big 'thank you' to Oscar Virot for showing what's possible!
 
 ## ⚠️ Disclaimer
 This application is made available on an "as-is" basis, without any warranties or representations, whether express, implied, or statutory, including but not limited to implied warranties of merchantability, fitness for a particular purpose, or non-infringement.
