@@ -19,7 +19,7 @@ This application is made available on an "as-is" basis, without any warranties o
 ## 💾 Setup intructions
 _To install CSRInspector_:
 
-1. Download the MSI here
+1. Download the MSI [here]https://github.com/JMarkstrom/CSRInspector/releases/download/
 2. Double-click the MSI package to begin installation
 3. Follow on-screen instructions to complete installation.
 
