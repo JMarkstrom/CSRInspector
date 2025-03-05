@@ -11,7 +11,7 @@ Based on these inputs, **CSRInspector** performs certificate chain validation to
 
 ![](/images/CSRInspector.gif)
 
-🙏🏻 A big 'thank you' to Oscar Virot (@virot) for showing what's possible!
+🙇🏻‍♂️ A big 'thank you' to Oscar Virot (@virot) for showing what's possible!
 
 ## ⚠️ Disclaimer
 This application is made available on an "as-is" basis, without any warranties or representations, whether express, implied, or statutory, including but not limited to implied warranties of merchantability, fitness for a particular purpose, or non-infringement.
