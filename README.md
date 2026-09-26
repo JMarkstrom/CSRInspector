@@ -33,3 +33,15 @@ _To use CSRInspector_:
 5. Issue or reject the CSR (out of scope).
 
 <sup>1</sup> Yubico CA certficate is embedded within the application and is not a required input.
+
+## 🥷🏻 Contributing
+You can help by getting involved in the project, _or_ by donating (any amount!).   
+Donations will support costs such as domain registration and code signing (planned).
+
+[![Donate](https://www.paypalobjects.com/en_US/i/btn/btn_donate_LG.gif)](https://www.paypal.com/donate/?business=RXAPDEYENCPXS&no_recurring=1&item_name=Help+cover+costs+of+the+SWJM+blog+and+app+code+signing%2C+supporting+a+more+secure+future+for+all.&currency_code=USD)
+
+## ™️ Trademark notice
+YubiKey is a trademark of Yubico. This project is independent of and is not affiliated with, endorsed by, or sponsored by Yubico.
+
+## ⚖️ License
+This software is proprietary. Copyright (c) 2026 swjm.blog. All rights reserved. See [LICENSE](LICENSE) for details.
