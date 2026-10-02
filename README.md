@@ -14,7 +14,7 @@ Based on these inputs, **CSRInspector** performs certificate chain validation to
 🙇🏻‍♂️ A big 'thank you' to Oscar Virot (@virot) for showing what's possible!
 
 ## ⚠️ Disclaimer
-This application is made available on an "as-is" basis, without any warranties or representations, whether express, implied, or statutory, including but not limited to implied warranties of merchantability, fitness for a particular purpose, or non-infringement.
+This application is provided on an “AS IS” basis, without warranties or representations of any kind. For the complete warranty disclaimer and terms governing use, modification, and redistribution, see the [BSD-2-Clause License](LICENSE).
 
 ## 💾 Setup intructions
 _To install CSRInspector_:
@@ -44,4 +44,5 @@ Donations will support costs such as domain registration and code signing (plann
 YubiKey is a trademark of Yubico. This project is independent of and is not affiliated with, endorsed by, or sponsored by Yubico.
 
 ## ⚖️ License
-This software is proprietary. Copyright (c) 2026 swjm.blog. All rights reserved. See [LICENSE](LICENSE) for details.
+This software is licensed under the [BSD-2-Clause License](LICENSE).   
+Copyright (c) 2026 swjm.blog.
